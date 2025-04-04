@@ -10,9 +10,7 @@
 
 - <b>Javascript</b>
   - [Backend Javascript practice](https://github.com/Mitchkal/alx-backend-javascript)
- 
-- <b>Javascript</b>
-  - [File management in Javascript](https://github.com/Mitchkal/alx-files_manager)
+  - [File management](https://github.com/Mitchkal/alx-files_manager)
 
 <h2>📺 Popular YouTube Videos</h2>
 
