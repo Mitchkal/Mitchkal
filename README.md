@@ -5,6 +5,14 @@
 - <b>Python</b>
   - [Airbnb clone](https://github.com/Mitchkal/AirBnB_clone_v4)
 
+- <b>C</b>
+  - [Low level programming practice](https://github.com/Mitchkal/alx-low_level_programming)
+
+- <b>Javascript</b>
+  - [Backend Javascript practice](https://github.com/Mitchkal/alx-backend-javascript)
+ 
+- <b>Javascript</b>
+  - [File management in Javascript](https://github.com/Mitchkal/alx-files_manager)
 
 <h2>📺 Popular YouTube Videos</h2>
 
