@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer | ALX ProDev Learner | Tech Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Backend+Engineer;Building+scalable+and+secure+systems;Driven+by+curiosity+and+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Backend+Engineer;Building+scalable+secure+systems;Driven+by+curiosity+and+impact" alt="Typing SVG" />
 </p>
 
 ---
